@@ -1,7 +1,7 @@
 
 # WeatherApp
 
-This is a group project for the couse comp.cs.140 programming 3. This projects scored 500/500 points.
+This is a group project for the course comp.cs.140 programming 3. This projects scored 500/500 points.
 
 WeatherApp is a JavaFX application that provides weather information, including current weather conditions, hourly forecasts, and a 7-day forecast. The application utilizes a OpwenWeatheMap API to fetch real-time data.
 
