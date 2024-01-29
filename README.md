@@ -1,14 +1,17 @@
 
 # WeatherApp
 
+This is a group project for the couse comp.cs.140 programming 3. This projects scored 500/500 points.
+
 WeatherApp is a JavaFX application that provides weather information, including current weather conditions, hourly forecasts, and a 7-day forecast. The application utilizes a OpwenWeatheMap API to fetch real-time data.
 
 # Usage
-1. Launch the application by running the WeatherApp class.
-2. Enter the name of the city you want to check the weather for in the search bar.
-3. Explore current weather conditions, hourly forecasts, and a 7-day forecast.
-4. Toggle between metric and imperial units using the "METRIC" / "IMPERIAL" button.
-5. Mark cities as favorites for quick access.
+1. Add API key to API_KEY in the iAPI interface
+2. Launch the application by running the WeatherApp class.
+3. Enter the name of the city you want to check the weather for in the search bar.
+4. Explore current weather conditions, hourly forecasts, and a 7-day forecast.
+5. Toggle between metric and imperial units using the "METRIC" / "IMPERIAL" button.
+6. Mark cities as favorites for quick access.
 
 # Features
 1. Current Weather: View real-time weather conditions, including temperature, description, and wind speed.
