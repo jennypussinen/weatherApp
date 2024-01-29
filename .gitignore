@@ -1,0 +1,3 @@
+/WeatherApp/target/
+/src/main/resources/weatherData/*.json
+.vscode/
